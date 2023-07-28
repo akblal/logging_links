@@ -1,0 +1,23 @@
+{
+  "name": "logging_links",
+  "version": "1.0.0",
+  "description": "Coding interview question where program will download a webpage and log out all links listed",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akblal/logging_links.git"
+  },
+  "author": "Brandon Hsu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akblal/logging_links/issues"
+  },
+  "homepage": "https://github.com/akblal/logging_links#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "node-fetch": "^2.6.6"
+  }
+}
